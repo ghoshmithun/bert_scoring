@@ -1,3 +1,15 @@
+# Latest using sentence transformers
+
+ pip install sentence_transformers
+ 
+ python bert_scoring4.py --path_input <input_path> --path_output <output_path>
+
+Default Input Path - "sample_query.txt" 
+
+Default output Path - "query_output.csv"
+
+
+
 # bert_scoring
 How to vectorize sentences using bert
 
